@@ -1,0 +1,15 @@
+C:\Skydrive\Boulot\Moteur3D\Session 1\SoftEngineTS\SoftEngineTSPart1\SoftEngineTS\bin\SoftEngineTS.dll
+C:\Skydrive\Boulot\Moteur3D\Session 1\SoftEngineTS\SoftEngineTSPart1\SoftEngineTS\bin\SoftEngineTS.pdb
+C:\Skydrive\Boulot\Moteur3D\Session 1\SoftEngineTS\SoftEngineTSPart1\SoftEngineTS\obj\Debug\SoftEngineTS.csprojResolveAssemblyReference.cache
+C:\Skydrive\Boulot\Moteur3D\Session 1\SoftEngineTS\SoftEngineTSPart1\SoftEngineTS\obj\Debug\SoftEngineTS.dll
+C:\Skydrive\Boulot\Moteur3D\Session 1\SoftEngineTS\SoftEngineTSPart1\SoftEngineTS\obj\Debug\SoftEngineTS.pdb
+C:\Users\davrous\Desktop\WorkingSolution\SoftEngineTSPart1\SoftEngineTS\bin\SoftEngineTS.dll
+C:\Users\davrous\Desktop\WorkingSolution\SoftEngineTSPart1\SoftEngineTS\bin\SoftEngineTS.pdb
+C:\Users\davrous\Desktop\WorkingSolution\SoftEngineTSPart1\SoftEngineTS\obj\Debug\SoftEngineTS.csprojResolveAssemblyReference.cache
+C:\Users\davrous\Desktop\WorkingSolution\SoftEngineTSPart1\SoftEngineTS\obj\Debug\SoftEngineTS.dll
+C:\Users\davrous\Desktop\WorkingSolution\SoftEngineTSPart1\SoftEngineTS\obj\Debug\SoftEngineTS.pdb
+C:\Users\davrous\Desktop\temps\SoftEngineTSPart1\SoftEngineTS\bin\SoftEngineTS.dll
+C:\Users\davrous\Desktop\temps\SoftEngineTSPart1\SoftEngineTS\bin\SoftEngineTS.pdb
+C:\Users\davrous\Desktop\temps\SoftEngineTSPart1\SoftEngineTS\obj\Debug\SoftEngineTS.csprojResolveAssemblyReference.cache
+C:\Users\davrous\Desktop\temps\SoftEngineTSPart1\SoftEngineTS\obj\Debug\SoftEngineTS.dll
+C:\Users\davrous\Desktop\temps\SoftEngineTSPart1\SoftEngineTS\obj\Debug\SoftEngineTS.pdb

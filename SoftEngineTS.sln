@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftEngineTS", "SoftEngineTS\SoftEngineTS.csproj", "{E7A553D4-1255-4F66-BE62-EB153691ADFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7A553D4-1255-4F66-BE62-EB153691ADFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A553D4-1255-4F66-BE62-EB153691ADFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A553D4-1255-4F66-BE62-EB153691ADFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A553D4-1255-4F66-BE62-EB153691ADFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
