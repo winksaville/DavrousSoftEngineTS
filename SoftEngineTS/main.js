@@ -22,7 +22,8 @@ function init() {
     mesh.Vertices[6] = new BABYLON.Vector3(1, -1, 1);
     mesh.Vertices[7] = new BABYLON.Vector3(1, -1, -1);
 
-    mera.Position = new BABYLON.Vector3(0, 0, 10);
+    // Set Position to -10 so -Z is out of screen
+    mera.Position = new BABYLON.Vector3(0, 0, -10);
     mera.Target = new BABYLON.Vector3(0, 0, 0);
 
     requestAnimationFrame(drawingLoop);
@@ -31,8 +32,29 @@ function init() {
 function drawingLoop() {
     device.clear();
 
+    // This is a Left Handed coordinate system with:
+    //   +Y up
+    //   +X right
+    //   -Z out of screen (+Z into screen)
+    //   Rotations are clockwise.
+
+    //mesh.Rotation.z += 0.01;
+    //mesh.Position.z += 0.005;
     mesh.Rotation.x += 0.01;
-    mesh.Rotation.y += 0.01;
+    mesh.Position.x += 0.005;
+    //mesh.Rotation.y += 0.01;
+    //mesh.Position.y += 0.005;
+
+    // Bound the movments so the mesh stays in view
+    if (mesh.Position.x > 2 || mesh.Position.x < -2) {
+        mesh.Position.x = 0;
+    }
+    if (mesh.Position.y > 2 || mesh.Position.y < -2) {
+        mesh.Position.y = 0;
+    }
+    if (mesh.Position.z > 4 || mesh.Position.z < -4) {
+        mesh.Position.z = 0;
+    }
 
     device.render(mera, meshes);
 
